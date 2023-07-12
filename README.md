@@ -1,6 +1,3 @@
-Monyreak Kit 
-Assignment 3
-
 use two condition variables: not_empty and not_full.
 not_empty is signaled when an item is pushed to the queue,
 and not_full is signaled when an item is popped from the queue. 
